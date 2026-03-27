@@ -8,7 +8,7 @@
 
 ## 🔗 Accès direct
 
-[👉 [Ouvrir le Pack Métiers Tool](Tenmalexis%20%E2%80%94%20Pack%20M%C3%A9tiers%20Tool.html)](https://tenmalexis.github.io/pack-metiers/%F0%9F%8E%92%20Tenmalexis%20%E2%80%94%20Pack%20M%C3%A9tiers%20Tool.html)
+👉 [Ouvrir le Pack Métiers Tool](https://tenmalexis.github.io/pack-metiers/)
 
 ---
 
