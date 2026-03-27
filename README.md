@@ -8,7 +8,7 @@
 
 ## 🔗 Accès direct
 
-👉 [Ouvrir le Pack Métiers Tool](pack_metiers_dofus.html)
+👉 [Ouvrir le Pack Métiers Tool](Tenmalexis%20%E2%80%94%20Pack%20M%C3%A9tiers%20Tool.html)
 
 ---
 
